@@ -68,3 +68,10 @@
   </picture>
 </h1>
 
+## Newly uploaded images
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d6c5c9d4-7748-4c3d-a508-a996cab7ed12">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d670bcbe-b7af-4d0c-82b2-644c3e1057ab">
+  <img alt="Figaro" src="https://github.com/user-attachments/assets/d6c5c9d4-7748-4c3d-a508-a996cab7ed12">
+</picture>
