@@ -1,6 +1,11 @@
 <h1>
-  <img alt="Figaro" src="https://github.com/user-attachments/assets/d15bfe84-a6ca-4769-aaea-a7b04ef64eb3" style="height: 2.529em;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d15bfe84-a6ca-4769-aaea-a7b04ef64eb3">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d6c5c9d4-7748-4c3d-a508-a996cab7ed12">
+    <img alt="Figaro" src="https://github.com/user-attachments/assets/d6c5c9d4-7748-4c3d-a508-a996cab7ed12" style="height: 2em;">
+  </picture>
 </h1>
+
 
 Lemon drops gingerbread tiramisu shortbread chupa chups toffee. Caramels caramels soufflé sugar plum gummies pudding muffin pudding. Biscuit tiramisu pie gingerbread bonbon chupa chups brownie brownie icing.
 
